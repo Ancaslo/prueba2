@@ -1,0 +1,52 @@
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+h3{
+	text-align: center;
+}
+
+nav.principal a{
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	display: inline;	
+	color: white;
+	text-decoration:none;
+	padding:10px;
+	background-color:black;
+}
+
+nav.principal a:hover li{
+	background-color: orange;
+}
+
+nav.principal li{
+	display:inline;
+	padding:10px;
+	text-decoration: none;
+}
+nav.principal ul{
+	text-align: center;
+	text-decoration: none;
+}
+nav.lateral {
+	float: right;
+	background-color: #AFF;
+	margin-left: 15px;
+	margin: 5px;
+	border-left: solid #eee;
+}
+
+nav.lateral li{
+	background-color:#07F;
+	margin: 5px;
+	padding: 5px;
+	border-radius: 10px;
+}
+
+footer{
+	clear:both;
+}
+	

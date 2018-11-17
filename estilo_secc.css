@@ -1,0 +1,28 @@
+nav.principal a.anterior{
+	border-top-left-radius: 20px;
+	border-bottom-left-radius: 20px;
+	border-top-right-radius: 0px;
+	background-color: black;
+	display:inline;
+	padding:10px;
+	text-decoration: none;
+}
+
+
+nav.principal a.home{
+	border-radius: 0px;
+	background-color: black;
+	display:inline;
+	padding:10px;
+	text-decoration: none;
+}
+
+nav.principal a.siguiente{
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+	border-top-left-radius: 0px;
+	background-color: black;
+	display:inline;
+	padding:10px;
+	text-decoration: none;
+}

@@ -1,0 +1,23 @@
+article p{
+	margin:15px;
+}
+
+article header p{
+	    font-style: italic;	
+}
+
+article footer p{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	text-align: right;
+}
+
+p.titulo:before{
+	font-style: italic;
+	content: "Referencia: ";
+}
+
+p.editorial:before{
+	font-weight: bold;
+	content:"Editorial: ";
+}
